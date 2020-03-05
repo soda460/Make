@@ -1,6 +1,6 @@
 Just to learn the very basic of Makefiles in the context of running bioinfo pipelines.
 
-I've consult these pages:
+I have consulted these pages:
 
  
 http://byronjsmith.com/make-bml/
